@@ -74,7 +74,7 @@ button[value="-"]:hover,
 button[value="*"]:hover,
 button[value="/"]:hover,
 button[value="%"]:hover {
-  background-color: #33a3ff;
+  background-color: #ffaa33;
 }
 
 /* Special buttons */
